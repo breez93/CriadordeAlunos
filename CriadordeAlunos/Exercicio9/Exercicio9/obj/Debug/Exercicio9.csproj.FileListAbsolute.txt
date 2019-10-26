@@ -1,0 +1,9 @@
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\bin\Debug\Exercicio9.exe.config
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\bin\Debug\Exercicio9.exe
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\bin\Debug\Exercicio9.pdb
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\obj\Debug\Exercicio9.csprojAssemblyReference.cache
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\obj\Debug\Exercicio9.Form1.resources
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\obj\Debug\Exercicio9.Properties.Resources.resources
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\obj\Debug\Exercicio9.csproj.GenerateResource.cache
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\obj\Debug\Exercicio9.exe
+C:\CSharp\Exercicio9\Exercicio9\Exercicio9\obj\Debug\Exercicio9.pdb
